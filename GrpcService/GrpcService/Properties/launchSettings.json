@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "GrpcService": {
+      "commandName": "Project",
+      "commandLineArgs": "--grpc_out=\"C:\\Luis\\GrpcService\\GrpcClient\\Protos\"",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": "true",
+      "applicationUrl": "http://localhost:5000;https://localhost:5001"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GrpcClient": {
+      "commandName": "Project",
+      "commandLineArgs": "--grpc_out=\"C:\\Luis\\GrpcService\\GrpcClient\\Protos\""
+    }
+  }
+}
