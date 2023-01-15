@@ -1,2 +1,2 @@
 # GrpcService
-Grpc use Example
+Grpc example in C#
