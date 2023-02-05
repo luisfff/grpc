@@ -2,7 +2,7 @@
   "profiles": {
     "GrpcService": {
       "commandName": "Project",
-      "commandLineArgs": "--grpc_out=\"C:\\Luis\\GrpcService\\GrpcClient\\Protos\"",
+      "commandLineArgs": "--grpc_out=C:\\Luis\\repos\\grpc\\GrpcService\\GrpcService\\Protos",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
